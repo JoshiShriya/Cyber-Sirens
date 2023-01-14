@@ -1,6 +1,6 @@
 # Vaishnavi Gudimella 
 
-I'm a ==first year Computer Science== at ==Western University!!== 
+I'm a first year Computer Science at Western University!!
 
 ## Two Truths and a Lie 
 
@@ -12,9 +12,9 @@ I'm a ==first year Computer Science== at ==Western University!!==
 
 **Follow and connect. I would love to meet you all!!**
 
-👍 [Linkedin: ](https://www.linkedin.com/in/vaishnavi-gudimella)
-🫶 Instagram: vaneeshnavaa
-✅ [My resume: ](https://docs.google.com/document/d/1OJ7zBi5sGba9eWTo9me3oi9G8d8mWWMfR6eh9tek9r4/edit?usp=sharing)
+- 👍 [Linkedin: ](https://www.linkedin.com/in/vaishnavi-gudimella)
+- 🫶 Instagram: vaneeshnavaa
+- ✅ [My resume: ](https://docs.google.com/document/d/1OJ7zBi5sGba9eWTo9me3oi9G8d8mWWMfR6eh9tek9r4/edit?usp=sharing)
 
 **Fun Fact!!** 😊
 My family's from South India!
