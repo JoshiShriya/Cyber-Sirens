@@ -1,10 +1,10 @@
-### Shriya Joshi :joy:
+### Shriya Joshi :sparkles:
 University : Western University  
 
 Year : First Year 
 
 Program : Computer Science
- 
+
 ![IMAGE!](csimage.jpeg)
 
 ### Two Truths and a Lie 
