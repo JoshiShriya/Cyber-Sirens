@@ -20,6 +20,6 @@ I'm a first year Computer Science at Western University!!
 My family's from South India!
 ![Vijayawada!](vijayawada.jpg "Vijayawada is a major city in Andhra Pradhesh - a Telugu speaking state of India")
 
-I've always wanted to visit British Columbia though 😍
+I've always wanted to visit British Columbia though 😍\
 ![BC!](BC.jpg)
 
