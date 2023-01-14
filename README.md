@@ -1,5 +1,3 @@
-# Cyber-Sirens
-
 # We are team Cyber Sirens! :woman_technologist:
 
 **Our members are:**
