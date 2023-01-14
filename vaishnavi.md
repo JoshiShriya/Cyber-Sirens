@@ -18,5 +18,5 @@ I'm a ==first year Computer Science== at ==Western University!!==
 
 **Fun Fact!!** 😊
 My family's from South India!
-![Vijayawada!](/assets/images/vijayawada.jpg)
+![Vijayawada!](/assets/images/vijayawada.jpg "A major city in Andhra Pradhesh - a Telugu speaking state of India")
 
