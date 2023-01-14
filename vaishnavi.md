@@ -1,6 +1,6 @@
 # Vaishnavi Gudimella 
 
-I'm a first year Computer Science at Western University!!
+I'm a first year Computer Science student at Western University!!
 
 ## Two Truths and a Lie 
 
