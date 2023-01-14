@@ -5,7 +5,7 @@ Year : First Year
 
 Program : Computer Science
 
-![IMAGE!](csimage.jpeg)
+![IMAGE!](csimage.jpg)
 
 ### Two Truths and a Lie 
     1) I was born in Kenya, Africa. 
