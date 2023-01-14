@@ -10,6 +10,6 @@ Program : Computer Science
     3) I am allergic to cats. 
 
 ### CONNECTIONS!!
-My instagram username is shriya_joshi
-[Linkdin Link : ](www.linkedin.com/in/shriya-joshi-1137b5222)
-[My Resume : ](https://docs.google.com/document/d/1WIjm2jrhwoI9DDrCh-h6msBnXB_7OSR1_f70uipkakI/edit?usp=sharing)
+1) My instagram username is shriya_joshi
+2) [Linkdin Link : ](www.linkedin.com/in/shriya-joshi-1137b5222)
+3) [My Resume : ](https://docs.google.com/document/d/1WIjm2jrhwoI9DDrCh-h6msBnXB_7OSR1_f70uipkakI/edit?usp=sharing)
