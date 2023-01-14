@@ -18,5 +18,5 @@ I'm a first year Computer Science at Western University!!
 
 **Fun Fact!!** 😊
 My family's from South India!
-![Vijayawada!](vijayawada.jpg "A major city in Andhra Pradhesh - a Telugu speaking state of India")
+![Vijayawada!](vijayawada.jpg "Vijayawada is a major city in Andhra Pradhesh - a Telugu speaking state of India")
 
