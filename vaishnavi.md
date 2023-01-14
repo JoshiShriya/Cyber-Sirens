@@ -16,7 +16,7 @@ I'm a first year Computer Science at Western University!!
 - 🫶 Instagram: vaneeshnavaa
 - ✅ [My resume: ](https://docs.google.com/document/d/1OJ7zBi5sGba9eWTo9me3oi9G8d8mWWMfR6eh9tek9r4/edit?usp=sharing)
 
-**Fun Facts!!** 😊
+**Fun Facts!!** 😊\
 My family's from South India!
 ![Vijayawada!](vijayawada.jpg "Vijayawada is a major city in Andhra Pradhesh - a Telugu speaking state of India")
 
