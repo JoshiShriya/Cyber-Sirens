@@ -1,5 +1,7 @@
 # We are team Cyber Sirens! :woman_technologist:
 
+![title](cybersirenstitle.png)
+
 **Our members are:**
 
 :purple_heart: Orayda Shagifa (First year Western Student) :purple_heart:
