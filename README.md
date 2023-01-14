@@ -1,6 +1,6 @@
-# Cyber-Sirens
-
 # We are team Cyber Sirens! :woman_technologist:
+
+![title](cybersirenstitle.png)
 
 **Our members are:**
 
