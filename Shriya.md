@@ -1,7 +1,10 @@
 ### Shriya Joshi :joy:
-University : Western University 
+University : Western University  
+
 Year : First Year 
-Program : Computer Science 
+
+Program : Computer Science
+ 
 ![IMAGE!](csimage.jpeg)
 
 ### Two Truths and a Lie 
@@ -11,5 +14,5 @@ Program : Computer Science
 
 ### CONNECTIONS!!
 1) My instagram username is shriya_joshi
-2) [Linkdin Link : ](www.linkedin.com/in/shriya-joshi-1137b5222)
-3) [My Resume : ](https://docs.google.com/document/d/1WIjm2jrhwoI9DDrCh-h6msBnXB_7OSR1_f70uipkakI/edit?usp=sharing)
+2) [Linkdin Link](https://www.linkedin.com/in/shriya-joshi-1137b5222/)
+3) [My Resume](https://docs.google.com/document/d/1WIjm2jrhwoI9DDrCh-h6msBnXB_7OSR1_f70uipkakI/edit?usp=sharing)
